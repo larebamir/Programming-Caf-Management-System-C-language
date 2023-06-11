@@ -1,0 +1,261 @@
+User Type:
+1. Admin
+2. Tutor
+3. Student
+Enter your choice: 
+1
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+1
+Enter Tutor ID: 
+T05
+Enter Tutor Name: 
+Lareb
+Enter Tutor Title: 
+Data Sciences 
+Enter Tutor Password: 
+lareb
+Tutor added successfully!
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+2
+Enter Session Code: 
+DS102
+Enter Session Title: 
+Data Sciences
+Enter Session Day: 
+Sunday
+Enter Session Start Time: 
+2:00pm
+Enter Session Location: 
+K-12-12
+Available Tutors:
+T01. Albert
+T02. Amad
+T03. Steve
+T05. Lareb
+Enter Tutor Code: 
+T05
+Session added successfully!
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+3
+Enter Student ID: 
+S01
+Enter Student Name: 
+Misbah
+Enter Student Password: 
+misbah
+Student registered successfully!
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+4
+Available Sessions:
+PYP101. Python Programming
+JAV102. Java Programming
+CPL103. C Programming
+WEB104. Web Development
+CSP105. C Sharp Programming
+DS102. Data Sciences
+Enter Session Code: 
+DS102
+Available Students:
+S01. Misbah
+Enter Student ID: 
+S01
+Student 'Misbah' has been enrolled in session 'DS102'.
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+5
+Listing of Programming Café sessions and participating students:
+Student Name, Session Code, Tutor Code, Location
+--------------------------------------------------
+Misbah, DS102, T05, K-12-12
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+6
+Logged out as Admin.
+
+
+User Type:
+1. Admin
+2. Tutor
+3. Student
+Enter your choice: 
+2
+Enter tutor ID: 
+T05
+Enter password: 
+lareb
+Successfully Logged in!  
+
+Tutor Menu
+1. List Assigned Sessions
+2. Logout
+Enter your choice: 
+1
+Assigned Sessions: T05 
+Session Code: CSP105
+Title: C Sharp Programming
+Day: Monday
+Start Time: 7.00pm
+Location: C-01-05
+-------------------------
+Session Code: DS102
+Title: Data Sciences
+Day: Sunday
+Start Time: 2:00pm
+Location: K-12-12
+-------------------------
+
+
+Tutor Menu
+1. List Assigned Sessions
+2. Logout
+Enter your choice: 
+2
+Logged out as Tutor.
+
+
+User Type:
+1. Admin
+2. Tutor
+3. Student
+Enter your choice: 
+3
+Enter your ID: 
+S01
+Enter your password: 
+misbah
+Student Menu
+1. List Assigned Sessions
+2. Enroll in Session
+3. Logout
+Enter your choice: 
+1
+Assigned Sessions for Student: Misbah
+--------------------------------------------------
+Session Code	Tutor Code	Location
+--------------------------------------------------
+DS102		T05		K-12-12
+--------------------------------------------------
+
+Student Menu
+1. List Assigned Sessions
+2. Enroll in Session
+3. Logout
+Enter your choice: 
+2
+Available Sessions:
+PYP101. Python Programming
+JAV102. Java Programming
+CPL103. C Programming
+WEB104. Web Development
+CSP105. C Sharp Programming
+DS102. Data Sciences
+Enter the Session Code you want to enroll in: 
+JAV102
+Enrollment successful.
+
+Student Menu
+1. List Assigned Sessions
+2. Enroll in Session
+3. Logout
+Enter your choice: 
+1
+Assigned Sessions for Student: Misbah
+--------------------------------------------------
+Session Code	Tutor Code	Location
+--------------------------------------------------
+DS102		T05		K-12-12
+JAV102		T02		C-01-02
+--------------------------------------------------
+
+Student Menu
+1. List Assigned Sessions
+2. Enroll in Session
+3. Logout
+Enter your choice: 
+3
+Logged out as Student.
+
+
+User Type:
+1. Admin
+2. Tutor
+3. Student
+Enter your choice: 
+1
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+5
+Listing of Programming Café sessions and participating students:
+Student Name, Session Code, Tutor Code, Location
+--------------------------------------------------0
+Misbah, JAV102, T02, C-01-02
+Misbah, DS102, T05, K-12-12
+
+Admin Menu
+1. Add Tutor
+2. Add Session
+3. Register Student
+4. Enroll Student into a Session
+5. List Sessions and Students
+6. Logout
+Enter your choice: 
+6
+Logged out as Admin.
+
+
+User Type:
+1. Admin
+2. Tutor
+3. Student
+Enter your choice: ** Process Stopped **
